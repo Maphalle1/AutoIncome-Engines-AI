@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="[https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6](https://chatgpt.com/backend-api/estuary/content?id=file_000000001cdc71fda8a4d3c3164d9a36&ts=491539&p=fs&cid=1&sig=1cbb9fa3eef29f4ab59876e638b3c438ea90fc49402a8b78a645f800182b102e&v=0)" />
 </div>
 
 # **AutoIncome Engines™**
