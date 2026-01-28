@@ -1,5 +1,6 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1536" height="1024" alt="autoincome-engines™ Sovereign Revenue Banner" src="https://github.com/user-attachments/assets/8948e461-0986-4813-840d-7bcebb8615ae" />
+ />
 </div>
 
 ---
@@ -8,7 +9,7 @@
 
 ## **Sovereign Revenue for the Architects of the New Economy**
 
-**Automation for Income — Make Money Work for You**
+**Automation for Income — Make Money Work for You.**
 *A Freedom Wheels™ Platform*
 
 ---
