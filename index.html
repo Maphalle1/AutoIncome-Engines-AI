@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -39,6 +40,23 @@
         }
         .animate-neural-scan {
             animation: neural-scan 12s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+        }
+        @keyframes ken-burns {
+            0% { transform: scale(1) translate(0, 0); }
+            25% { transform: scale(1.05) translate(-1%, 1%); }
+            50% { transform: scale(1.1) translate(1%, -1%); }
+            75% { transform: scale(1.05) translate(-1%, -1%); }
+            100% { transform: scale(1) translate(0, 0); }
+        }
+        .animate-ken-burns {
+            animation: ken-burns 30s ease-in-out infinite;
+        }
+        @keyframes shimmer-sweep {
+            0% { transform: translateX(-150%) skewX(-20deg); }
+            100% { transform: translateX(150%) skewX(-20deg); }
+        }
+        .animate-shimmer-sweep {
+            animation: shimmer-sweep 8s linear infinite;
         }
         .scrollbar-hide::-webkit-scrollbar {
             display: none;
