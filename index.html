@@ -58,6 +58,32 @@
         .animate-shimmer-sweep {
             animation: shimmer-sweep 8s linear infinite;
         }
+        @keyframes idle-breath {
+            0%, 100% { opacity: 0.8; transform: scale(1); filter: grayscale(0.2) contrast(1); }
+            50% { opacity: 0.4; transform: scale(0.995); filter: grayscale(0.8) contrast(0.8); }
+        }
+        .animate-idle-breath {
+            animation: idle-breath 10s ease-in-out infinite;
+        }
+        @keyframes power-save-scan {
+            0% { top: -10%; opacity: 0; }
+            10% { opacity: 0.15; }
+            90% { opacity: 0.15; }
+            100% { top: 110%; opacity: 0; }
+        }
+        .animate-power-save-scan {
+            animation: power-save-scan 8s linear infinite;
+        }
+        @keyframes idle-bg-shift {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+        .animate-idle-bg {
+            background: linear-gradient(-45deg, rgba(255,255,255,0.01), rgba(0,112,243,0.03), rgba(255,255,255,0.01));
+            background-size: 400% 400%;
+            animation: idle-bg-shift 20s ease infinite;
+        }
         .scrollbar-hide::-webkit-scrollbar {
             display: none;
         }
